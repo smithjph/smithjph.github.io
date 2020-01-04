@@ -8,12 +8,12 @@
 <img src="images/Picture1.png"/>
 
 ---
-[NHL Team Performance](https://github.com/smithjph/NHL-Team-Performance)
-<img src="images/Atl_line.jpeg"/>
+[Model Selector](https://github.com/smithjph/Model-Selector)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NHL Team Performance](https://github.com/smithjph/NHL-Team-Performance)
+<img src="images/Atl_line.jpeg"/>
 
 ---
 
