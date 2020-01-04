@@ -8,7 +8,7 @@
 <img src="images/Picture1.png"/>
 
 ---
-[Model Selector](https://github.com/smithjph/Model-Selector)
+[Model Selector (Iris Dataset)](https://github.com/smithjph/Model-Selector)
 <img src="images/model_selector.jpeg"/>
 
 ---
