@@ -27,6 +27,7 @@
 
 ---
 
+### [My Resume](https://github.com/smithjph/smithjph.github.io/blob/master/pdf/Joel%20Smith%20Resume.pdf)
 
 
 
