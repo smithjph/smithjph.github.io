@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NHL Team Performance](/pdf/sample_presentation.pdf)
+[NHL Team Performance](https://github.com/smithjph/smithjph.github.io/blob/master/pdf/All_line.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
