@@ -9,11 +9,11 @@
 
 ---
 [NHL Team Performance](https://github.com/smithjph/NHL-Team-Performance)
-<img src="https://github.com/smithjph/smithjph.github.io/blob/master/images/All_line_jpg.jpeg"/>
+<img src="images/All_line_jpg.jpeg"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Atl_line.jpeg"/>
 
 ---
 
