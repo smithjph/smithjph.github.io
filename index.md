@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Model Selection](https://github.com/smithjph/College-Debt---Model-Selection)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Picture1.png"/>
 
 ---
 [NHL Team Performance](https://github.com/smithjph/NHL-Team-Performance)
