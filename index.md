@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Projects 
 
 [Best Subsets Model Selection](https://github.com/smithjph/College-Debt---Model-Selection)
 <img src="images/Picture1.png"/>
