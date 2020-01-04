@@ -9,7 +9,7 @@
 
 ---
 [Model Selector](https://github.com/smithjph/Model-Selector)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/model_selector.jpeg"/>
 
 ---
 [NHL Team Performance](https://github.com/smithjph/NHL-Team-Performance)
