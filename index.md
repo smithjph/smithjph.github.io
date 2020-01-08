@@ -21,6 +21,7 @@
 
 - [Project Euler](https://github.com/smithjph/Project-Euler)
 - [Predicting Wine Scores](https://github.com/smithjph/Kaggle-Wine-Reviews)
+- [Determining Reading Difficulty via Flesch-Kincaid](https://github.com/smithjph/Flesch-Kincaid-Reading-Ease-for-Texts)
 
 ---
 
