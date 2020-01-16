@@ -5,7 +5,7 @@
 ### Data Projects 
 
 [Best Subsets Model Selection](https://github.com/smithjph/College-Debt---Model-Selection)
-A script that determines the best combination of independent variables in terms of R**2.
+A script that determines the best combination of independent variables in terms of R<sup>2</sup>.
 <img src="images/Picture1.png"/>
 
 ---
