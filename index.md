@@ -5,10 +5,12 @@
 ### Data Projects 
 
 [Best Subsets Model Selection](https://github.com/smithjph/College-Debt---Model-Selection)
+A script that determines the best combination of independent variables in terms of R**2.
 <img src="images/Picture1.png"/>
 
 ---
 [Model Selector (Iris Dataset)](https://github.com/smithjph/Model-Selector)
+A script that automatically compares machine learning models.
 <img src="images/model_selector.jpeg"/>
 
 ---
