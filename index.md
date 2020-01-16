@@ -10,7 +10,7 @@ A script that determines the best combination of independent variables in terms 
 <img src="images/Picture1.png"/>
 
 ---
-[Model Selector (Iris Dataset)](https://github.com/smithjph/Model-Selector)
+[Model Selector](https://github.com/smithjph/Model-Selector)
 
 A script that automatically compares results of machine learning models.
 <img src="images/model_selector.jpeg"/>
